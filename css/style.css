@@ -7,8 +7,10 @@ body{
 	width: 960px;
 	height: 100px;
 }
+
+
 #header{
-	background-color: #000;
+	background-color: #535252;
 	color: #ff9900;
 	font-size: 40px;
 }
