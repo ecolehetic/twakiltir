@@ -12,6 +12,10 @@
 			$file = 'anime.php';
 			$title = 'Weee GITS';
 			break;
+		case 'maxime':
+			$file = 'maxime.php';
+			$title = 'chouf';
+			break;
 		default:
 			header( 'Location: index-switch.php?page=accueil' );
 			die();
