@@ -24,6 +24,9 @@ body{
 	min-height: 600px;
 	padding: 10px 10px;
 }
+img{
+	text-align: center;
+}
 #footer{
 	background-color: #000;
 	color: #ffffff;
