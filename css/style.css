@@ -1,5 +1,7 @@
 body{
-	background: #2c3e50;
+	background: #d3d3d3;
+    margin: 0;
+    padding: 0;
 }
 
 .largeur-de-la-balle{
@@ -10,9 +12,9 @@ body{
 
 
 #header{
-	background-color: #535252;
-	color: #ff9900;
-	font-size: 40px;
+	background-color: #1c1c1c;
+    height: 90px;
+    width: 100%;
 }
 #menu{
 	height: 40px;
