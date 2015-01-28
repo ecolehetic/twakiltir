@@ -16,6 +16,10 @@
 			$file = 'maxime.php';
 			$title = 'chouf';
 			break;
+		case 'jackson':
+			$file = 'jackson.php';
+			$title = 'incroyable talent';
+			break;
 		default:
 			header( 'Location: index-switch.php?page=accueil' );
 			die();

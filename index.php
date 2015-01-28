@@ -21,6 +21,11 @@
 		'menu_title' => 'Chouf',
 		'title' => 'Chouf'
 	);
+	$les_pages['jackson'] = array(
+		'file' => 'jackson.php' ,
+		'menu_title' => 'Incroyable talent',
+		'title' => 'Vive la web 1'
+	);
 	$les_pages['teletubbies'] = array(
 		'file' => 'teletubbies.php' ,
 		'menu_title' => 'Teletubbies',
