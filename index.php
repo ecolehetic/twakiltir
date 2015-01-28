@@ -16,6 +16,11 @@
 		'menu_title' => 'Petits chats',
 		'title' => 'J\'aime les chatons!'
 	);
+	$les_pages['maxime'] = array(
+		'file' => 'maxime.php' ,
+		'menu_title' => 'Chouf',
+		'title' => 'Chouf'
+	);
 	$les_pages['teletubbies'] = array(
 		'file' => 'teletubbies.php' ,
 		'menu_title' => 'Teletubbies',
